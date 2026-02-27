@@ -249,8 +249,8 @@ vendorParsed.msg: "*keyword*" AND vendorParsed.msg: "*another keyword*"
 
 - [Trend Vision One Search Syntax](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-search-syntax)
 - [Trend Vision One Search App](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-search-app)
-- [Third-Party Log Collection](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-third-party-log-collection)
-- [Custom Filter Settings](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-custom-filter-settings)
+- [Third-Party Log Collection](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-third-party-log-intro)
+- [Custom Filters](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-custom-filters)
 - [Detection Model Management](https://docs.trendmicro.com/en-us/documentation/article/trend-vision-one-detection-model-management)
 
 ### AI Assistant
