@@ -259,8 +259,6 @@ vendorParsed.msg: "*keyword*" AND vendorParsed.msg: "*another keyword*"
 - **Platform:** Claude Code CLI
 - **Provider:** Anthropic
 
-All queries were manually validated in a live Trend Vision One environment.
-
 ## License
 
 MIT License - Copyright (c) 2026 Scarlett Menendez
